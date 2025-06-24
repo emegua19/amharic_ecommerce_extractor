@@ -26,3 +26,9 @@ Thumbs.db
 /models/*
 config.yaml
 *.pyc
+
+# Secrets
+config.yaml
+session.session
+ethio_session.session
+test_session.session
